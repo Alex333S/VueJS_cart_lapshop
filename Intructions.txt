@@ -1,0 +1,3 @@
+*Application built with vue 3
+
+*To start application: npm run dev
